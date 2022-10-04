@@ -20,5 +20,11 @@ yarn build
 yarn test:e2e
 ```
 
+## Utilizando Less 
+```
+npm install -D less less-loader
+
+```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
